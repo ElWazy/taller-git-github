@@ -4,7 +4,8 @@ public class Main {
 
     public static void main(String[] args) {
         String[] asistencia = new String[] {
-                "Santiago"
+                "Santiago",
+                "Esteban V"
         };
 
         for (String almuno : asistencia) {
