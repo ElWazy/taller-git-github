@@ -4,7 +4,7 @@
 - cosa 1
 - cosa 2
 
-- [ ] sdahkl
+- [ x ] sdahkl
 
 | hdsak | dshajkd |
 |-------|---------|
