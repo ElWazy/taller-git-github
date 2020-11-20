@@ -3,6 +3,12 @@ package org.elwazy.proyecto;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("Wi Mundo");
+        String[] asistencia = new String[] {
+                "Santiago"
+        };
+
+        for (String almuno : asistencia) {
+            System.out.println(almuno);
+        }
     }
 }
