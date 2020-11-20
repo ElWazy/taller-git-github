@@ -6,7 +6,10 @@ public class Main {
         String[] asistencia = new String[] {
                 "Santiago",
                 "ElWazy",
-                "Esteban"
+                "Esteban",
+                "Matías",
+                "Esteban V",
+                "Esteban 2"
         };
 
         for (String almuno : asistencia) {
