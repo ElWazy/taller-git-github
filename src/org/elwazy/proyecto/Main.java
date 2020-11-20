@@ -5,8 +5,8 @@ public class Main {
     public static void main(String[] args) {
         String[] asistencia = new String[] {
                 "Santiago",
-                "Esteban V",
-                "ElWazy"
+                "ElWazy",
+                "Esteban V"
         };
 
         for (String almuno : asistencia) {
