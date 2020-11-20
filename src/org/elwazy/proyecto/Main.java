@@ -9,7 +9,8 @@ public class Main {
                 "Esteban",
                 "Matías",
                 "Esteban V",
-                "Esteban 2"
+                "Esteban 2",
+                "Luciano"
         };
 
         for (String almuno : asistencia) {
