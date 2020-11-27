@@ -52,7 +52,9 @@ git init
 git add .
 git commit -m "primer commit"
 
-*git remote add origin [url_repo_github]
+(Se crea el repositorio en github.com)
+
+git remote add origin [url_repo_github]
 git branch -M master
 git push -u origin master
 ```
