@@ -3,6 +3,8 @@
     - La que tiene el codigo
     - La que va a colaborar
 
+![Logo de Git](./img/logo_got.png)
+
 ## Inicio de un repositorio(proyecto) con **Git**
 
 #### El que tiene el codigo
