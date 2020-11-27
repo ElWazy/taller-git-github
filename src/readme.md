@@ -3,7 +3,7 @@
     - [ ] La que tiene el codigo
     - [x] La que va a colaborar
 
-![Logo de Git](https://cf.ltkcdn.net/gatos/images/std/236641-699x450-etapas-desarrollo-gatitos.jpg)
+![Logo de Git](../img/git_logo.png)
 
 ## Inicio de un repositorio(proyecto) con **Git**
 
