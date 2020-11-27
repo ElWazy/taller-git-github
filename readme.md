@@ -1,7 +1,7 @@
 ## Conceptos
 - Personas dentro de un proyecto
     - [ ] La que tiene el codigo
-    - [ X ] La que va a colaborar
+    - [x] La que va a colaborar
 
 ![Logo de Git](https://cf.ltkcdn.net/gatos/images/std/236641-699x450-etapas-desarrollo-gatitos.jpg)
 
